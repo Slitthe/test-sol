@@ -1,0 +1,18 @@
+{
+  "name": "QuickNode Pixel",
+  "description": "Pixel infrastructure for everyone!",
+  "image": "https://t4.ftcdn.net/jpg/01/97/10/81/360_F_197108120_szkGFelufV8BznqrM6l8j7VIutbwkJkT.jpg",
+  "attributes": [
+    { "trait_type": "Speed", "value": "Quick" },
+    { "trait_type": "Type", "value": "Pixelated" },
+    { "trait_type": "Background", "value": "QuickNode Blue" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://t4.ftcdn.net/jpg/01/97/10/81/360_F_197108120_szkGFelufV8BznqrM6l8j7VIutbwkJkT.jpg"
+      }
+    ]
+  }
+}
