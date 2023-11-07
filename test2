@@ -1,7 +1,7 @@
 {
   "name": "Guy stroking pussy",
-  "description": "Black buy stroking cute pussy!",
-  "image": "https://t4.ftcdn.net/jpg/01/97/10/81/360_F_197108120_szkGFelufV8BznqrM6l8j7VIutbwkJkT.jpg",
+  "description": "Test NFT",
+  "image": "https://ps.w.org/tiny-compress-images/assets/icon-256x256.png?rev=1088385",
   "attributes": [
     { "trait_type": "Speed", "value": "Quick" },
     { "trait_type": "Type", "value": "Pixelated" },
@@ -11,7 +11,7 @@
     "files": [
       {
         "type": "image/png",
-        "uri": "https://t4.ftcdn.net/jpg/01/97/10/81/360_F_197108120_szkGFelufV8BznqrM6l8j7VIutbwkJkT.jpg"
+        "uri": "https://ps.w.org/tiny-compress-images/assets/icon-256x256.png?rev=1088385"
       }
     ]
   }
